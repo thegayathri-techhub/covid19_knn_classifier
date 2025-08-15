@@ -84,7 +84,9 @@ Run the classifier script:
 📊 Example Output
 
 Accuracy: 93.5%
+
 Confusion Matrix:
+
 [[100   2   1]
 
  [  3  95   5]
