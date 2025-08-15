@@ -86,8 +86,11 @@ Run the classifier script:
 Accuracy: 93.5%
 Confusion Matrix:
 [[100   2   1]
+
  [  3  95   5]
+ 
  [  1   4  97]]
+ 
 (Example only — actual results may vary depending on dataset split.)
 
 📌 Future Enhancements
